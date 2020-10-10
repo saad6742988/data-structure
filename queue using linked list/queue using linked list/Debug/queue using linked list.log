@@ -1,0 +1,4 @@
+﻿  Source.cpp
+F:\3rd sem\data structure\queue using linked list\queue using linked list\Source.cpp(163,17): warning C4101: 'm': unreferenced local variable
+F:\3rd sem\data structure\queue using linked list\queue using linked list\Source.cpp(204,17): warning C4101: 'n': unreferenced local variable
+  queue using linked list.vcxproj -> F:\3rd sem\data structure\queue using linked list\Debug\queue using linked list.exe

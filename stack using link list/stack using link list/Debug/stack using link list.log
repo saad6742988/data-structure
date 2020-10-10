@@ -1,0 +1,4 @@
+﻿  Source.cpp
+F:\3rd sem\data structure\stack using link list\stack using link list\Source.cpp(167,17): warning C4101: 'm': unreferenced local variable
+F:\3rd sem\data structure\stack using link list\stack using link list\Source.cpp(208,16): warning C4101: 'n': unreferenced local variable
+  stack using link list.vcxproj -> F:\3rd sem\data structure\stack using link list\Debug\stack using link list.exe
